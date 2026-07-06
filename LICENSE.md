@@ -1,4 +1,4 @@
-# 
+# Automático Cline fluxo de trabalho. Com treinamento de modelos personalizados e modelos híbridos de IA — otimizado para máximo desempenho e eficiência.
 
 
 
